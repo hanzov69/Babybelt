@@ -1,4 +1,4 @@
-#Stub / entrypoint for documentation
+# Stub / entrypoint for documentation
 1. [Bill-of-Materials (BOM)](./BOM.md)
 2. [Print Guide](./PRINTING.md)
 3. [Assembly Guide](./ASSEMBLY.md)
